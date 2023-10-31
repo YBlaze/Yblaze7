@@ -1,0 +1,5 @@
+{
+    "name": "Bunny Clicker",
+    "main": "electron-main.js",
+    "version": "build 1.0.0"
+}
