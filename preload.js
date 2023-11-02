@@ -6,7 +6,10 @@ contextBridge.exposeInMainWorld('electronAPI',{
 	minimize: () => {
 		ipcRenderer.send("min-app");
 	},
-        maximize: () => {
+    maximize: () => {
 		ipcRenderer.send("max-app");
+	},
+	siteSafe: (URL) => {
+		ipcRenderer.send("get-cer", URL);
 	}
 });

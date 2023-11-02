@@ -1,5 +1,6 @@
 'use strict';
 const { app, BrowserWindow, Menu, shell, screen, dialog, ipcMain, remote } = require('electron');
+const https = require('https');
 const path = require('path');
 
 const createWindow = () => {
@@ -12,11 +13,13 @@ const createWindow = () => {
     frame: false,
     webPreferences: {
       preload: path.join(__dirname, 'preload.js'),
+      icon: path.join(__dirname, 'icon.png'),
       webviewTag: true,
     },
   })
 
   win.loadFile('index.html');
+  win.setIcon(path.join(__dirname, 'icon.png'));
 
   ipcMain.on("close-app", (event) => {
         app.quit();
@@ -30,7 +33,7 @@ const createWindow = () => {
 }
 
 app.whenReady().then(() => {
-  createWindow()
+  createWindow();
 });
 
 app.on('window-all-closed', () => {
