@@ -13,7 +13,7 @@ YBlaze7.
 | Newest          | :heavy_check_mark: (Supported) |
 
 Do not report vulnerabilities for versions that are not supported or eol. They will be ignored.
-Builds normally have a eol of **one month** (except for extended date builds that have a eol of **one months**). Builds of previous generations will be depreciated by the time a new generation releases, (e.g. Alpha builds (gen1) will be depreciated when Beta builds (gen2) are released).
+Builds normally have a eol of **one month** (except for extended date builds that have a eol of **one months**). Builds of previous generations will be depreciated by the time a new generation releases, (e.g. Alpha builds (gen0) will be depreciated when Beta builds (gen1) are released).
 
 ## Reporting a Vulnerability
 
