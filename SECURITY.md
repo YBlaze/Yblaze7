@@ -8,7 +8,7 @@ YBlaze7.
 | --------------- | ------------------ |
 | Depreciated/EOL | :x:                |
 | Nearing EoL     | :heavy_minus_sign: | (Partially Supported)
-| Extended Date   | :heavy_check_sign: |
+| Extended Date   | :heavy_check_mark: |
 | Supported       | :heavy_check_mark: |
 | Newest          | :heavy_check_mark: |
 
