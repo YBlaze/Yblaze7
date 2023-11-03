@@ -7,8 +7,8 @@ YBlaze7.
 | Release Tag     | Supported          |
 | --------------- | ------------------ |
 | Depreciated/EOL | :x:                |
-| Nearing EoL     | :x:                |
-| Extended Date   | :heavy_minus_sign: |
+| Nearing EoL     | :heavy_minus_sign: | (Partially Supported)
+| Extended Date   | :heavy_check_sign: |
 | Supported       | :heavy_check_mark: |
 | Newest          | :heavy_check_mark: |
 
