@@ -6,11 +6,11 @@ YBlaze7.
 
 | Release Tag     | Supported          |
 | --------------- | ------------------ |
-| Depreciated/EOL | :x:                |
+| Depreciated/EOL | :x: (Not Supported)                |
 | Nearing EoL     | :heavy_minus_sign: (Partially Supported) |
-| Extended Date   | :heavy_check_mark: |
-| Supported       | :heavy_check_mark: |
-| Newest          | :heavy_check_mark: |
+| Extended Date   | :heavy_check_mark: (Supported)  |
+| Supported       | :heavy_check_mark: (Supported) |
+| Newest          | :heavy_check_mark: (Supported) |
 
 Do not report vulnerabilities for versions that are not supported or eol. They will be ignored.
 Builds normally have a eol of **one month** (except for extended date builds that have a eol of **one months**). Builds of previous generations will be depreciated by the time a new generation releases, (e.g. Alpha builds (gen1) will be depreciated when Beta builds (gen2) are released).
