@@ -10,7 +10,7 @@ If you want to suggest features, open a new issue and we will review place the f
  - Enhanced Privacy
  - Slight Support for chrome extensions
  - Options for using different themes (Windows 7, Windows XP, Windows 98)
-2024 (Or late 2023)
+ 2024 (Or late 2023)
 
 # Licences
 7.css licensed under MIT licence.
