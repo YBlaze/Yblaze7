@@ -8,8 +8,9 @@ If you want to suggest features, open a new issue and we will review place the f
  2023 to 2024 (Or late 2023)
  - Better Menu
  - Enhanced Privacy
+ - Better Fullscreen
  - Slight Support for chrome extensions
- - Options for using different themes (Windows 7, Windows XP, Windows 98)
+ - Options for using custom themes!(。＾▽＾)
 
 # Licences
 7.css licensed under MIT licence.
