@@ -11,5 +11,5 @@ Introducing YBlaze7, a web browser offering from YBlaze. YBlaze7 is designed to 
 
 # Licences
 7.css licensed under MIT licence.
-Icons provided by https://iconarchive.org (Licenced under LGPL (Open Source) (Sets: Oxygen Icons URL: [https://www.iconarchive.com/show/oxygen-icons-by-oxygen-icons.org.html]))
+Icons provided by https://iconarchive.org (Licenced under LGPL (Open Source))
 YBlaze7 is licenced under MIT licence.
