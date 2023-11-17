@@ -1,6 +1,6 @@
 # Security Policy
 
-YBlaze7.
+YBlaze7 security policy.
 
 ## Supported Versions
 
