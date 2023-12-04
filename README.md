@@ -5,9 +5,9 @@ Introducing YBlaze7, a web browser offering from YBlaze. YBlaze7 is designed to 
  **2023** to **Early 2024** (Or **Late 2023**)
  - Better Menu
  - Enhanced Privacy
+ - Browser tabs
  - Better Fullscreen
- - Slight Support for chrome extensions
- - Options for using custom themes! (。＾▽＾)
+ - Partial support for chrome extensions
 
 # Licences
 7.css licensed under MIT licence.
