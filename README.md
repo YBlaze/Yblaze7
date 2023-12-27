@@ -2,7 +2,7 @@
 Introducing YBlaze7, a web browser offering from YBlaze. YBlaze7 is designed to make your web browsing experience more secure than ever before.
 
 # Roadmap
- **2023** to **Early 2024** (Or **Late 2023**)
+ **2023** to **Early 2024**
  - Better Menu
  - Enhanced Privacy
  - Browser tabs
